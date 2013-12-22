@@ -1,4 +1,20 @@
-name: Project Name
-title: Baked with Awestruct
-org: Organization
+name: developer-workbench
+title: developer-workbench
+org: Derrick Ampy
+author: Derrick Ampy
+author_url: https://github.com/dsampy
 base_url: ''
+ctx_path: ''
+interpolate: false 
+haml:
+  :ugly: true
+asciidoctor:
+  :safe: safe
+  :attributes:
+    sitename: developer-workbench
+    base_url: ''
+    ctx_path: ''
+    idprefix: ''
+    idseparator: '-'
+    sectanchors: ''
+    icons: font
